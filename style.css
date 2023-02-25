@@ -1,0 +1,25 @@
+body{
+    /*color de las letras*/
+    color:#63402e;
+    /*color de fondo*/
+    background-color: rgb(223, 206, 240);
+    /*fuente texto*/
+    font-family: 'Montserrat', sans-serif;
+
+}
+h1{
+    color:rgb(235, 94, 94);
+    font-size: 60px;
+}
+h3{
+    color:rgb(78, 6, 106);
+}
+img{
+    width: 400px;
+    height: 220px;
+    padding: 70px;
+}
+footer{
+    background-color: azure;
+    color:blue;
+}
